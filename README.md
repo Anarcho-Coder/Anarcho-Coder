@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Anarcho-Coder
-- 👀 I’m interested in ...
-    Coding some small browser games, and developing a little library to use for that.
+- 👀 I’m interested in ...\
+    Game Development, c++ and SDL2
 
-- 🌱 I’m currently learning ...
-    p5.js
-    2D game dev
+- 🌱 I’m currently learning ...\
+    nodeGUI\
+    tmi.js
 
 <!---
 - 💞️ I’m looking to collaborate on ...
