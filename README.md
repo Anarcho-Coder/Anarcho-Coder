@@ -3,8 +3,8 @@
     Game Development, c++ and SDL2
 
 - 🌱 I’m currently learning ...\
-    nodeGUI\
-    tmi.js
+    C++, and qt
+    typefaces and letter bending
 
 <!---
 - 💞️ I’m looking to collaborate on ...
