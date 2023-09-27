@@ -3,7 +3,7 @@
     Game Development, c++ and SDL2
 
 - 🌱 I’m currently learning ...\
-    C++, and qt
+    C++, and qt \
     typefaces and letter bending
 
 <!---
